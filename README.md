@@ -80,6 +80,6 @@ The model predicts diabetes using the following medical features:
 4. Results are displayed instantly through the Streamlit interface  
 
 ---
-Screenshot of the App
+##        Screenshot of the App
 ![Diabetes-Prediction-App](Screenshot.png)
 
