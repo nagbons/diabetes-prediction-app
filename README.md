@@ -7,8 +7,7 @@ Built using **Python, Scikit-Learn, and Streamlit**.
 
 ## 🚀 Live Demo
 
-👉 Add your deployed Render link here  
-Example: https://your-diabetes-app.onrender.com
+👉https://diabetes-prediction-app-4yobhdqdvrqv4ruldv4pre.streamlit.app/
 
 ---
 
